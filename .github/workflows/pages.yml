@@ -1,0 +1,42 @@
+name: Pages
+
+# Publie l'addon en fichiers statiques sur GitHub Pages à chaque changement du catalogue.
+on:
+  push:
+    branches: [main]
+    paths: ["backend/data/**", "backend/src/**", ".github/workflows/pages.yml"]
+  workflow_dispatch:
+
+# Moindre privilège : lecture du dépôt + écriture Pages uniquement.
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    defaults:
+      run:
+        working-directory: backend
+    steps:
+      - uses: actions/checkout@v7
+      - uses: dtolnay/rust-toolchain@stable
+      - uses: Swatinem/rust-cache@v2
+        with:
+          workspaces: backend
+      # Hors ligne : utilise le catalogue déjà résolu et commité (pas d'appel à Cinemeta).
+      - run: cargo run --locked -q -- build data/imdb-top250.json public
+      - uses: actions/configure-pages@v6
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: backend/public
+      - id: deployment
+        uses: actions/deploy-pages@v5

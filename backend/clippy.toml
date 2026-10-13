@@ -1,0 +1,8 @@
+# Dans les tests, unwrap/expect/panic/indexation sont idiomatiques.
+allow-unwrap-in-tests = true
+allow-expect-in-tests = true
+allow-panic-in-tests = true
+allow-indexing-slicing-in-tests = true
+
+# Noms propres à ne pas mettre entre backticks dans la doc ("..": garde la liste par défaut).
+doc-valid-idents = ["IMDb", ".."]

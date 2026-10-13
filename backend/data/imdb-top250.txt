@@ -1,0 +1,750 @@
+#1
+Les Évadés
+1994
+#2
+Le Parrain
+1972
+#3
+The Dark Knight : Le Chevalier noir
+2008
+#4
+Le Parrain, 2ᵉ partie
+1974
+#5
+Le Seigneur des anneaux : Le Retour du roi
+2003
+#6
+12 Hommes en colère
+1957
+#7
+La Liste de Schindler
+1993
+#8
+Le Seigneur des anneaux : La Communauté de l'anneau
+2001
+#9
+Pulp Fiction
+1994
+#10
+Le Seigneur des anneaux : Les Deux Tours
+2002
+#11
+Le Bon, la Brute et le Truand
+1966
+#12
+Forrest Gump
+1994
+#13
+Inception
+2010
+#14
+Fight Club
+1999
+#15
+L'Empire contre-attaque
+1980
+#16
+Matrix
+1999
+#17
+Interstellar
+2014
+#18
+Les Affranchis
+1990
+#19
+Vol au-dessus d'un nid de coucou
+1975
+#20
+Seven
+1995
+#21
+La vie est belle tt0038650
+1946
+#22
+Le silence des agneaux
+1991
+#23
+Il faut sauver le soldat Ryan
+1998
+#24
+Les 7 Samouraïs
+1954
+#25
+La Ligne verte
+1999
+#26
+La cité de Dieu
+2002
+#27
+La vie est belle tt0118799
+1997
+#28
+Terminator 2 : Le Jugement dernier
+1991
+#29
+Retour vers le futur tt0088763
+1985
+#30
+La Guerre des étoiles
+1977
+#31
+Le Voyage de Chihiro
+2001
+#32
+Gladiator
+2000
+#33
+Le Pianiste
+2002
+#34
+Kill Bill: The Whole Bloody Affair tt6019206
+2004
+#35
+Parasite
+2019
+#36
+Le Tombeau des lucioles
+1988
+#37
+Harakiri tt0056058
+1962
+#38
+Le Roi lion
+1994
+#39
+Psychose
+1960
+#40
+Les Infiltrés
+2006
+#41
+Whiplash
+2014
+#42
+Le Prestige
+2006
+#43
+American History X
+1998
+#44
+Spider-Man: Across the Spider-Verse
+2023
+#45
+Cinéma Paradiso tt0095765
+1988
+#46
+Léon
+1994
+#47
+Casablanca
+1942
+#48
+Intouchables
+2011
+#49
+Usual Suspects
+1995
+#50
+Django Unchained
+2012
+#51
+Alien, le 8ème passager
+1979
+#52
+Fenêtre sur cour
+1954
+#53
+Les Temps modernes
+1936
+#54
+Il était une fois dans l'Ouest
+1968
+#55
+WALL·E
+2008
+#56
+Les Lumières de la ville
+1931
+#57
+Apocalypse Now
+1979
+#58
+Memento
+2000
+#59
+Avengers: Infinity War
+2018
+#60
+Dune : Deuxième Partie
+2024
+#61
+Les Aventuriers de l'arche perdue
+1981
+#62
+Spider-Man: New Generation
+2018
+#63
+L'Odyssée
+2026
+#64
+La Vie des autres
+2006
+#65
+Boulevard du Crépuscule
+1950
+#66
+Témoin à charge
+1957
+#67
+Les Sentiers de la gloire
+1957
+#68
+Inglourious Basterds
+2009
+#69
+Shining
+1980
+#70
+Le dictateur
+1940
+#71
+Aliens, le retour
+1986
+#72
+Entre le ciel et l'enfer
+1963
+#73
+12th Fail
+2023
+#74
+Avengers: Endgame
+2019
+#75
+Will Hunting
+1997
+#76
+Coco
+2017
+#77
+Toy Story
+1995
+#78
+The Dark Knight Rises
+2012
+#79
+Amadeus
+1984
+#80
+Your Name.
+2016
+#81
+3 Idiots
+2009
+#82
+Le Bateau
+1981
+#83
+Braveheart
+1995
+#84
+Princesse Mononoké
+1997
+#85
+Old Boy
+2003
+#86
+Dr. Folamour ou : comment j'ai appris à ne plus m'en faire et à aimer la bombe
+1964
+#87
+American Beauty
+1999
+#88
+Capharnaüm
+2018
+#89
+Chantons sous la pluie
+1952
+#90
+L'Attaque des titans : La dernière attaque
+2024
+#91
+Il était une fois en Amérique
+1984
+#92
+Joker
+2019
+#93
+Toy Story 3
+2010
+#94
+Le Retour du Jedi
+1983
+#95
+Requiem pour un massacre
+1985
+#96
+Requiem for a Dream
+2000
+#97
+Incendies
+2010
+#98
+Vivre
+1952
+#99
+La Chasse
+2012
+#100
+Eternal Sunshine of the Spotless Mind
+2004
+#101
+La Garçonnière
+1960
+#102
+Lawrence d'Arabie
+1962
+#103
+Heat
+1995
+#104
+Scarface
+1983
+#105
+Reservoir Dogs
+1992
+#106
+Là-haut
+2009
+#107
+2001 : L'Odyssée de l'espace
+1968
+#108
+Assurance sur la mort
+1944
+#109
+Taare Zameen Par
+2007
+#110
+La Mort aux trousses
+1959
+#111
+Full Metal Jacket
+1987
+#112
+Une séparation
+2011
+#113
+Plus fort que moi
+2025
+#114
+Piège de cristal
+1988
+#115
+M le maudit
+1931
+#116
+Le Fabuleux Destin d'Amélie Poulain
+2001
+#117
+Du silence et des ombres...
+1962
+#118
+Sueurs froides
+1958
+#119
+Indiana Jones et la Dernière Croisade
+1989
+#120
+Citizen Kane
+1941
+#121
+L'Arnaque
+1973
+#122
+Orange mécanique
+1971
+#123
+Metropolis
+1927
+#124
+The Truman Show
+1998
+#125
+Le Loup de Wall Street
+2013
+#126
+1917
+2019
+#127
+Snatch : Tu braques ou tu raques
+2000
+#128
+Shutter Island
+2010
+#129
+La Chute
+2004
+#130
+L.A. Confidential
+1997
+#131
+Green Book : Sur les routes du sud
+2018
+#132
+Dangal
+2016
+#133
+Le Voleur de bicyclette
+1948
+#134
+La Femme du sable
+1964
+#135
+Jugement à Nuremberg
+1961
+#136
+Jurassic Park
+1993
+#137
+Batman Begins
+2005
+#138
+Oppenheimer
+2023
+#139
+...et pour quelques dollars de plus
+1965
+#140
+Hamilton
+2020
+#141
+There Will Be Blood
+2007
+#142
+Certains l'aiment chaud
+1959
+#143
+Taxi Driver
+1976
+#144
+The Father
+2020
+#145
+Sixième Sens
+1999
+#146
+Le Kid
+1921
+#147
+Ève...
+1950
+#148
+Ran
+1985
+#149
+Casino
+1995
+#150
+The Thing
+1982
+#151
+No Country for Old Men
+2007
+#152
+Prisoners
+2013
+#153
+Top Gun: Maverick
+2022
+#154
+Kill Bill: Volume I
+2003
+#155
+Le Labyrinthe de Pan
+2006
+#156
+Impitoyable
+1992
+#157
+Un homme d'exception
+2001
+#158
+Le Château ambulant
+2004
+#159
+Le Trésor de la Sierra Madre
+1948
+#160
+Le Monde de Nemo
+2003
+#161
+La Légende de Klaus
+2019
+#162
+Projet Dernière Chance
+2026
+#163
+Demon Slayer: Kimetsu no Yaiba La Forteresse Infinie Film 1
+2025
+#164
+Le Garde du corps
+1961
+#165
+Elephant Man
+1980
+#166
+La Grande Évasion
+1963
+#167
+Monty Python : Sacré Graal !
+1975
+#168
+Le crime était presque parfait
+1954
+#169
+Dans ses yeux
+2009
+#170
+Autant en emporte le vent
+1939
+#171
+Arnaques, crimes et botanique
+1998
+#172
+Arrête-moi si tu peux
+2002
+#173
+Chinatown
+1974
+#174
+V pour Vendetta
+2005
+#175
+Le Cercle des poètes disparus
+1989
+#176
+Vice-versa
+2015
+#177
+Nos meilleures années
+2003
+#178
+Trainspotting
+1996
+#179
+Harry Potter et les Reliques de la Mort : partie 2
+2011
+#180
+3 Billboards : Les Panneaux de la vengeance
+2017
+#181
+Le Pont de la rivière Kwaï
+1957
+#182
+Rashomon
+1950
+#183
+Barry Lyndon
+1975
+#184
+Ben-Hur
+1959
+#185
+Le Robot sauvage
+2024
+#186
+Warrior
+2011
+#187
+Tu ne tueras point
+2016
+#188
+Ratatouille
+2007
+#189
+Mad Max: Fury Road
+2015
+#190
+Million Dollar Baby
+2004
+#191
+Fargo
+1996
+#192
+Les Enfants du ciel
+1997
+#193
+Mon voisin Totoro
+1988
+#194
+Gran Torino
+2008
+#195
+Raging Bull
+1980
+#196
+12 Years a Slave
+2013
+#197
+Dragons
+2010
+#198
+Memories of Murder
+2003
+#199
+The Grand Budapest Hotel
+2014
+#200
+Before Sunrise
+1995
+#201
+Monstres & Cie
+2001
+#202
+Blade Runner
+1982
+#203
+Gone Girl
+2014
+#204
+Le Mans '66
+2019
+#205
+Les Dents de la mer
+1975
+#206
+Au nom du père tt0107207
+1993
+#207
+Chainsaw Man - Le Film : L'Arc de Reze
+2025
+#208
+Spider-Man: No Way Home
+2021
+#209
+Les Nouveaux Sauvages
+2014
+#210
+Silent Voice
+2016
+#211
+La Ruée vers l'or
+1925
+#212
+Mary et Max.
+2009
+#213
+Sherlock Junior
+1924
+#214
+Le Salaire de la peur
+1953
+#215
+Voyage au bout de l'enfer
+1978
+#216
+Logan
+2017
+#217
+Rocky
+1976
+#218
+Pirates des Caraïbes : La Malédiction du Black Pearl
+2003
+#219
+Le Mécano de la General
+1926
+#220
+Mr. Smith au sénat
+1939
+#221
+Voyage à Tokyo
+1953
+#222
+La Haine
+1995
+#223
+Maharaja
+2024
+#224
+La mélodie du bonheur
+1965
+#225
+Spotlight
+2015
+#226
+Jai Bhim
+2021
+#227
+Terminator
+1984
+#228
+Les Fraises sauvages
+1957
+#229
+Sur les quais...
+1954
+#230
+Les Plus Belles Années de notre vie
+1946
+#231
+Le Troisième Homme
+1949
+#232
+The Big Lebowski
+1998
+#233
+Les Indestructibles
+2004
+#234
+Hatchi
+2009
+#235
+Before Sunset
+2004
+#236
+L'Exorciste
+1973
+#237
+Le Géant de fer
+1999
+#238
+Room
+2015
+#239
+Hôtel Rwanda
+2004
+#240
+Platoon
+1986
+#241
+Le Septième Sceau
+1957
+#242
+Rush
+2013
+#243
+Stand by Me
+1986
+#244
+La bataille d'Alger
+1966
+#245
+Le Magicien d'Oz
+1939
+#246
+Mon père et mon fils
+2005
+#247
+La Passion de Jeanne d'Arc
+1928
+#248
+Hababam Sinifi: Sinifta Kaldi
+1975
+#249
+Drishyam
+2015
+#250
+Gangs of Wasseypur
+2012
